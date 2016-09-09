@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shortcut_string">快捷方式已经创建</string>
+    <string name="creat_shortcut_string">创建快捷方式</string>
+</resources>

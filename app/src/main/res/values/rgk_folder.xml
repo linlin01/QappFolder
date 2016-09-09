@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="folder_qapps">
+        <item>com.facebook.katana</item>
+        <item>com.tinno.qcare</item>
+        <item>com.skype.raider</item>
+        <item>com.whatsapp</item>
+        <item>com.twitter.android</item>
+        <item>com.qmobile.masnoondua.dua</item>
+        <item>com.qmobile.ambiya_prayer</item>
+        <item>com.tinno.qalbum</item>
+        <item>cn.wps.moffice_eng</item>
+    </string-array>
+    <string-array name="folder_google">
+        <item>com.android.chrome</item>
+        <item>com.google.android.gm</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.apps.plus</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.google.android.music</item>
+        <item>com.google.android.talk</item>
+        <item>com.google.android.play.games</item>
+        <item>com.google.android.apps.magazines</item>
+        <item>com.android.inputmethod.latin</item>
+        <item>com.google.android.inputmethod.latin</item>
+        <item>com.android.development</item>
+        <item>com.google.android.apps.docs</item>
+        <item>com.google.android.apps.photos</item>
+        <item>com.google.android.youtube</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="qapps_activity_name">QApps</string>
+    <string name="google_activity_name">Google</string>
+    <string name="qapps_activity_title">Apps</string>
+    <string name="shortcut_string">Shortcut created</string>
+    <string name="creat_shortcut_string">Create shortcut</string>
+</resources>
